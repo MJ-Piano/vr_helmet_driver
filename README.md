@@ -5,4 +5,6 @@ This is the ros driver package for Samsung vr helmet, including image retrieving
 1. [libuvc](https://github.com/ktossell/libuvc);
 
 2. libhidapi;<br>
+```bash
 sudo apt-get install libhidapi-dev
+```
