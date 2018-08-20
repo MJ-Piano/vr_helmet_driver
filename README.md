@@ -12,7 +12,7 @@ sudo apt-get install libhidapi-dev
 # How to run
 
 1. Enable access to USB devices <br>
-Modify the file Samsung-helmet-usb.rules (typically set GROUP to your USER NAME) and copy it to /etc/udev/rules.d. Reload edev rules,
+Modify the file Samsung-helmet-usb.rules (typically set GROUP to your USER NAME) and copy it to /etc/udev/rules.d. Reload udev rules,
 ```bash
 sudo udevadm control --reload
 ```
