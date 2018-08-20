@@ -1,0 +1,6 @@
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="045e", ATTRS{idProduct}=="0659", GROUP="minjian", MODE="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04e8", ATTRS{idProduct}=="7310", GROUP="minjian", MODE="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="04e8", ATTRS{idProduct}=="7083", GROUP="minjian", MODE="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2109", ATTRS{idProduct}=="0210", GROUP="minjian", MODE="0666"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2109", ATTRS{idProduct}=="2210", GROUP="minjian", MODE="0666"
+
